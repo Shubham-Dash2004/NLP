@@ -1,0 +1,9 @@
+ipykernel
+python -m ipykernel install --user --name venv --display-name "Python (venv)"
+crafter.tcs@gmail.com
+
+
+kaggle : classification and regression  , if any customer watches action movie then you can show some more related movie in below of main screen
+qa test , regression test
+
+cost optimization and differen tparmaters of loop engineering

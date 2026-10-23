@@ -1,0 +1,34 @@
+
+# Virtual environments
+.venv/
+venv/
+env/
+env_my/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Logs
+logs/
+
+
+
+
+# All Python environment folders
+**/aienv/
+**/env_my/
+**/.venv/
+**/venv/
+**/env/
+
+# Generated model files (review before tracking)
+# *.h5
+# *.pkl
